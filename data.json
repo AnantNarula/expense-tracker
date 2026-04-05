@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "amount": 50.0,
+    "category": "food",
+    "description": "lunch at cafe"
+  },
+  {
+    "id": 3,
+    "amount": 120.0,
+    "category": "bills",
+    "description": "electricity"
+  }
+]
